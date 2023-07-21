@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3875898-5139-449a-979b-97c036bad8ed" name="Changes" comment="Practical 1 --&gt; Q 1 to 5" />
+    <list default="true" id="c3875898-5139-449a-979b-97c036bad8ed" name="Changes" comment="Practical 1 --&gt; Q 1 to 5">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/helloWorld.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/qur_8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/que_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/que_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/que_2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/que_2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/que_3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/que_3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/que_4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/que_4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/que_5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/que_5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/que_6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/que_6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/que_7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/que_7.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +20,14 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
