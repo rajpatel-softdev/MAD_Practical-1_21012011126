@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3875898-5139-449a-979b-97c036bad8ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/que_9.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/student.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/que_11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/que_8.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/que_4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/que_4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/que_5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/que_5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/que_6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/que_6.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/qur_8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/qur_8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/qur_8.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
